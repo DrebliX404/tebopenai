@@ -12,7 +12,7 @@ Silahkan masukan Api key OpenAI nya dan juga Api token telegramnya di dalam file
   create account di https://openai.com/api/
 ```
 ```bash
-  git clone https://github.com/almienava/telegrambot-openai
+  git clone https://github.com/DrebliX404/tebopenai/
   cd telegrambot-openai
   pip install -r requirements.txt
   python main.py 
